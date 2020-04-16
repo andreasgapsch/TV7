@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/das_erste_hd.png" tvg-name="ARD.de" group-title="de", Das Erste HD
+udp://@239.77.0.80:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/zdf_hd.png" tvg-name="ZDF.de" group-title="de", ZDF HD
+udp://@239.77.0.79:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/rtl.png" tvg-name="RTL.de" group-title="de", RTL CH
+udp://@239.77.0.190:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/prosieben.png" tvg-name="Pro7.de" group-title="de", ProSieben (Schweiz)
+udp://@239.77.0.15:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/sat_1.png" tvg-name="Sat1.de" group-title="de", Sat.1 (Schweiz)
+udp://@239.77.0.11:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/vox.png" tvg-name="Vox.de" group-title="de", VOX (Schweiz)
+udp://@239.77.0.17:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/sixx.png" tvg-name="sixx.de" group-title="de", SIXX
+udp://@239.77.0.69:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/kabel_eins.png" tvg-name="Kabel1.de" group-title="de", Kabel1 (Schweiz)
+udp://@239.77.0.18:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/orf1_hd.png" tvg-name="ORF1.at" group-title="de", ORF1 HD
+udp://@239.77.0.109:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/RTL2.png" tvg-name="RTL2.de" group-title="de", RTL 2 (Schweiz)
+udp://@239.77.0.14:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/rtl-nitro.png" tvg-name="RTLNitro.de" group-title="de", RTL Nitro
+udp://@239.77.0.88:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/welt.png" tvg-name="Welt.de" group-title="de", Welt HD
+udp://@239.77.0.194:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/n-tv.png" tvg-name="ntv.de" group-title="de", n-tv
+udp://@239.77.0.24:5000
+#EXTINF:0 tvg-logo="https://tv7api2.tv.init7.net/media/logos/dmax.png" tvg-name="DMax.de" group-title="de", DMAX HD
+udp://@239.77.0.195:5000
